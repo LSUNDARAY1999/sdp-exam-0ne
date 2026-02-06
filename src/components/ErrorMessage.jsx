@@ -1,5 +1,3 @@
-Accessibility 
-
 export default function ErrorMessage({ id, message }) {
   if (!message) return null;
 
